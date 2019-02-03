@@ -1,0 +1,3 @@
+# src/app/.gitignore
+.next
+node_modules
